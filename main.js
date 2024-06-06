@@ -1,0 +1,1 @@
+(()=>{"use strict";var t=document.querySelector(".logo__img-wrapper");t.addEventListener("mouseover",(function(){t.classList.contains("animation-rotate")||(t.classList.add("animation-rotate"),setTimeout((function(){t.classList.remove("animation-rotate")}),2e3))}))})();
